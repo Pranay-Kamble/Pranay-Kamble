@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranay-Kamble
 - 👀 I’m interested in Learning to Code
-- 🌱 I’m currently learning DSA in C++
+- 🌱 I’m currently learning DSA in C++ and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
